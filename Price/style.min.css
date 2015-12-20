@@ -1,0 +1,6 @@
+.price div.total,.price form ul{font-size:20px;font-weight:700;text-align:left}.price div.total span,.price form ul li span{float:right}.price form{width:100%;padding:35px 80px;margin:50px auto}.price form ul{list-style:none;color:#fff;margin:20px 0 15px}.price form ul li{padding:20px 30px;background-color:#e84c3d;margin-bottom:8px;box-shadow:0 1px 1px rgba(0,0,0,.1);cursor:pointer;border-radius:3px}.price form ul li.active{background-color:#9ab42d}.price div.total{padding:15px 30px}@media only screen and (max-width:1160px){
+    .price form ul li{padding:10px}
+    .price form{padding: 15px 10px}
+
+
+}

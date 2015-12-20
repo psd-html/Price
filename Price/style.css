@@ -1,0 +1,50 @@
+
+.price form{
+
+  width: 100%;
+  padding: 35px 80px;
+  margin: 50px auto;
+}
+
+
+.price form ul{
+  list-style:none;
+  color:#fff;
+  font-size:20px;
+  font-weight:bold;
+  text-align: left;
+  margin:20px 0 15px;
+}
+
+.price form ul li{
+  padding:20px 30px;
+  background-color:#e84c3d;
+  margin-bottom:8px;
+  box-shadow:0 1px 1px rgba(0,0,0,0.1);
+  cursor:pointer;
+  border-radius: 3px;
+}
+
+.price form ul li span{
+  float:right;
+}
+
+.price form ul li.active{
+  background-color:#9ab42d;
+}
+
+.price div.total{
+  padding:15px 30px;
+  font-size:20px;
+  font-weight:bold;
+  text-align: left;
+
+}
+
+.price div.total span{
+  float:right;
+}
+
+@media handheld, only screen and (max-width: 1160px){
+  .price form ul li{padding: 10px}
+}
