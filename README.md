@@ -4,10 +4,13 @@ Plugin pour créer et afficher une page devis
 
 Compatible avec la version 5.5
 
-Pages admin
+Page
 =========
 
 ![Alt text](http://nextum.fr/price.jpg)
+
+Pages admin
+=========
 
 ![Alt text](http://nextum.fr/admin_price.jpg)
 
